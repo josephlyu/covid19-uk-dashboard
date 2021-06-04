@@ -16,9 +16,9 @@ from figures.figures_uk import (api_uk_last_update, api_uk_date, today_uk_newcas
                                 today_uk_cumcases, today_uk_cumdeaths, fig_index_cases, fig_index_deaths)
 
 ##### DEFINE GLOBAL VARIABLES #####
-SIDEBAR_STYLE = { 'position':'fixed', 'top':0, 'left':0, 'bottom':0, 'width':'22rem', 'padding':'1.5rem 1rem'}
+SIDEBAR_STYLE = {'position':'fixed', 'top':0, 'left':0, 'bottom':0, 'width':'22rem', 'padding':'1.5rem 1rem'}
 
-CONTENT_STYLE = { 'margin-left':'22rem', 'margin-right':'0rem', 'padding':'1rem 1rem', 'background-color':'#e6ecec'}
+CONTENT_STYLE = {'margin-left':'22rem', 'margin-right':'0rem', 'padding':'1rem 1rem', 'background-color':'#e6ecec'}
 
 COLORS = {'side_title':'#ba3a0a', 'side_blue':'#3b6b7b', 'side_red':'#c65d35', 'side_dark':'#666666', 'side_text':'#9e9e9e', 'side_time':'#2196f3'}
 
