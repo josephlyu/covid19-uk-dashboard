@@ -1,7 +1,7 @@
 # COVID-19 (forecasting) Dashboard
 
-### [Project Report](https://report.shangjielyu.com/) | [Citation](https://github.com/josephlyu/Report) | [Interactive Demo](http://covid-19.shangjielyu.com)
+### [Project Report](https://report.shangjielyu.com/) | [Citation](https://github.com/josephlyu/Report) | [Static Demo](https://covid-19.shangjielyu.com/)
 
-> Data as of *20 April 2021* (the latest update) are stored [here](data/reference) for references. 
+> Limited functionalities are supported in the demo; [here](data/reference) stores the latest data. 
 
 ![preview](data/preview/preview.gif)
