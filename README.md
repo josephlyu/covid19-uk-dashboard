@@ -2,6 +2,6 @@
 
 ### [Project Report](https://report.shangjielyu.com/) | [Citation](https://github.com/josephlyu/Report) | [Static Demo](https://covid-19.shangjielyu.com/)
 
-> The static demo is a snapshot of the dashboard as of 20 April 2021, when the project terminated. It supports limited functionalities and is provided for reference purposes only. The demo represents the final state of the project and does not contain current or live data; data as of 20 April 2021 (the latest update) is stored [here](data/reference). 
+> The static demo is a snapshot of the dashboard as of 20 April 2021, when the project terminated. It supports limited functionalities and is provided for reference purposes only. The demo represents the final state of the project and does not contain current or live data; the latest data (20 April 2021) is stored [here](data/reference). 
 
 ![preview](data/preview/preview.gif)
